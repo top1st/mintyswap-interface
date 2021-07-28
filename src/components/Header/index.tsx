@@ -12,9 +12,10 @@ import { useDarkModeManager } from 'state/user/hooks'
 import { useETHBalances } from 'state/wallet/hooks'
 import styled from 'styled-components/macro'
 import Logo from '../../assets/images/logo.png'
+import FullLogo from '../../assets/images/full_logo.png'
 import LogoDark from '../../assets/svg/logo_white.svg'
 import { useActiveWeb3React } from '../../hooks/web3'
-import { ExternalLink, TYPE } from '../../theme'
+import { ExternalLink, MEDIA_WIDTHS, TYPE } from '../../theme'
 import ClaimModal from '../claim/ClaimModal'
 import { CardNoise } from '../earn/styled'
 import Menu from '../Menu'
@@ -172,10 +173,15 @@ const Title = styled.a`
   }
 `
 
-const UniIcon = styled.div`
+const UniIcon = styled.div<{ isFull?: boolean }>`
   transition: transform 0.3s ease;
   :hover {
     transform: rotate(-5deg);
+  }
+
+  display: ${({ isFull }) => (isFull ? 'none' : 'block')};
+  @media screen and (min-width: ${MEDIA_WIDTHS.upToLarge}px) {
+    display: ${({ isFull }) => (isFull ? 'block' : 'none')};
   }
 `
 
@@ -241,6 +247,8 @@ const StyledExternalLink = styled(ExternalLink).attrs({
 export default function Header() {
   const { account, chainId } = useActiveWeb3React()
 
+  // const below800 = useMedia('(max-width: 800px)')
+
   const userEthBalance = useETHBalances(account ? [account] : [])?.[account ?? '']
   const [darkMode] = useDarkModeManager()
 
@@ -263,8 +271,11 @@ export default function Header() {
         <UniBalanceContent setShowUniBalanceModal={setShowUniBalanceModal} />
       </Modal>
       <Title href=".">
-        <UniIcon>
-          <img width={'24px'} src={Logo} alt="logo" />
+        <UniIcon isFull={true}>
+          <img height={'24px'} src={FullLogo} alt="logo" />
+        </UniIcon>
+        <UniIcon isFull={false}>
+          <img height={'24px'} src={Logo} alt="logo" />
         </UniIcon>
       </Title>
       <HeaderLinks>
