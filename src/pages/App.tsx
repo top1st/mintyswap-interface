@@ -85,7 +85,7 @@ export default function App() {
             <Polling />
             <TopLevelModals />
             <Switch>
-              <Route strict path="/vote" render={() => (window.location = 'https://discord.gg/ReFFEBW3' as any)} />
+              <Route strict path="/vote" render={() => (window.location = 'https://discord.gg/RRMZsKmpFP' as any)} />
               <Route exact strict path="/claim" component={OpenClaimAddressModalAndRedirectToSwap} />
               <Route exact strict path="/uni" component={Earn} />
               <Route exact strict path="/uni/:currencyIdA/:currencyIdB" component={Manage} />

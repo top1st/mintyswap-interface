@@ -242,7 +242,7 @@ export default function Menu() {
             default:
               return (
                 <MenuFlyout>
-                  <MenuItem href="https://discord.gg/ReFFEBW3">
+                  <MenuItem href="https://discord.gg/RRMZsKmpFP">
                     <div>
                       <Trans>Discord</Trans>
                     </div>

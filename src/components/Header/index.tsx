@@ -296,7 +296,7 @@ export default function Header() {
           <Trans>Pool</Trans>
         </StyledNavLink>
         {chainId && chainId === SupportedChainId.MAINNET && (
-          <StyledExternalLink id={`stake-nav-link`} href={'https://discord.gg/ReFFEBW3'}>
+          <StyledExternalLink id={`stake-nav-link`} href={'https://discord.gg/RRMZsKmpFP'}>
             <Trans>Vote</Trans>
           </StyledExternalLink>
         )}
