@@ -296,11 +296,14 @@ export default function Header() {
           <Trans>Pool</Trans>
         </StyledNavLink>
         {chainId && chainId === SupportedChainId.MAINNET && (
-          <StyledNavLink id={`stake-nav-link`} to={'/vote'}>
+          <StyledExternalLink id={`stake-nav-link`} href={'https://discord.gg/ReFFEBW3'}>
             <Trans>Vote</Trans>
-          </StyledNavLink>
+          </StyledExternalLink>
         )}
-        <StyledExternalLink id={`stake-nav-link`} href={infoLink}>
+        <StyledExternalLink
+          id={`stake-nav-link`}
+          href={'https://www.dextools.io/app/ether/pair-explorer/0x1ae2bf1c5e67509ef5b2367751a87e65c47be2c4'}
+        >
           <Trans>Charts</Trans>
           <sup>↗</sup>
         </StyledExternalLink>

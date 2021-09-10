@@ -184,7 +184,7 @@ export default function Pool() {
           <BookOpen size={16} />
         </MenuItem>
       ),
-      link: 'https://docs.uniswap.org/',
+      link: 'https://www.dextools.io/app/ether/pair-explorer/0x1ae2bf1c5e67509ef5b2367751a87e65c47be2c4',
       external: true,
     },
   ]
