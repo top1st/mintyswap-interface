@@ -146,12 +146,12 @@ export function NetworkAlert() {
       <ContentWrapper>
         <L2Icon src={info.logoUrl} />
         <Header>
-          <Trans>Uniswap on {info.label}</Trans>
+          <Trans>Mintyswap on {info.label}</Trans>
         </Header>
         <Body>
           <Trans>
-            This is an alpha release of Uniswap on the {info.label} network. You must bridge L1 assets to the network to
-            swap them.
+            This is an alpha release of Mintyswap on the {info.label} network. You must bridge L1 assets to the network
+            to swap them.
           </Trans>
         </Body>
       </ContentWrapper>

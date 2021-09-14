@@ -120,14 +120,14 @@ export default function MigrateV2() {
               <Trans>Migrate V2 Liquidity</Trans>
             </TYPE.mediumHeader>
             <div>
-              <QuestionHelper text={<Trans>Migrate your liquidity tokens from Uniswap V2 to Uniswap V3.</Trans>} />
+              <QuestionHelper text={<Trans>Migrate your liquidity tokens from Mintyswap V2 to Mintyswap V3.</Trans>} />
             </div>
           </AutoRow>
 
           <TYPE.body style={{ marginBottom: 8, fontWeight: 400 }}>
             <Trans>
-              For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into
-              Uniswap V3.
+              For each pool shown below, click migrate to remove your liquidity from Mintyswap V2 and deposit it into
+              Mintyswap V3.
             </Trans>
           </TYPE.body>
 

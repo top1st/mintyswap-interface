@@ -130,7 +130,7 @@ export default function CTACards() {
     <div>
       <MinimalNetworkAlert />
       <CTASection>
-        <CTA1 href={'https://help.uniswap.org/en/articles/5391541-providing-liquidity-on-uniswap-v3'}>
+        <CTA1 href={'https://help.mintyswap.com'}>
           <ResponsiveColumn>
             <HeaderText>
               <Trans>Learn about providing liquidity</Trans> ↗
@@ -146,7 +146,7 @@ export default function CTACards() {
               <Trans>Top pools</Trans> ↗
             </HeaderText>
             <TYPE.body fontWeight={300} style={{ alignSelf: 'flex-start' }}>
-              <Trans>Explore popular pools on Uniswap Analytics.</Trans>
+              <Trans>Explore popular pools on Mintyswap Analytics.</Trans>
             </TYPE.body>
           </ResponsiveColumn>
         </CTA2>

@@ -63,19 +63,19 @@ export default function Earn() {
             <AutoColumn gap="md">
               <RowBetween>
                 <TYPE.white fontWeight={600}>
-                  <Trans>Uniswap liquidity mining</Trans>
+                  <Trans>Mintyswap liquidity mining</Trans>
                 </TYPE.white>
               </RowBetween>
               <RowBetween>
                 <TYPE.white fontSize={14}>
                   <Trans>
-                    Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token.
+                    Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token.
                   </Trans>
                 </TYPE.white>
               </RowBetween>{' '}
               <ExternalLink
                 style={{ color: 'white', textDecoration: 'underline' }}
-                href="https://uniswap.org/blog/uni/"
+                href="https://mintyswap.com/blog/uni/"
                 target="_blank"
               >
                 <TYPE.white fontSize={14}>
