@@ -42,14 +42,14 @@ export const V3_CORE_FACTORY_ADDRESSES: AddressMap = constructSameAddressMap(V3_
   SupportedChainId.ARBITRUM_ONE,
   SupportedChainId.ARBITRUM_RINKEBY,
 ])
-export const QUOTER_ADDRESSES: AddressMap = constructSameAddressMap('0x1961860C8AEF7469d2A16b2D54185711361af3D8', [
+export const QUOTER_ADDRESSES: AddressMap = constructSameAddressMap('0xA6E5ac275fB7455C2b43f30d9539989858710E91', [
   SupportedChainId.OPTIMISM,
   SupportedChainId.OPTIMISTIC_KOVAN,
   SupportedChainId.ARBITRUM_ONE,
   SupportedChainId.ARBITRUM_RINKEBY,
 ])
 export const NONFUNGIBLE_POSITION_MANAGER_ADDRESSES: AddressMap = constructSameAddressMap(
-  '0x9412eF10d7bae08993A5DD942B658d6CB4afe290',
+  '0x5200Cb7bF0980850baa68F2D2239eE7Bc6397329',
   [
     SupportedChainId.OPTIMISM,
     SupportedChainId.OPTIMISTIC_KOVAN,
@@ -66,13 +66,13 @@ export const ENS_REGISTRAR_ADDRESSES: AddressMap = {
 export const SOCKS_CONTROLLER_ADDRESSES: AddressMap = {
   [SupportedChainId.MAINNET]: '0x65770b5283117639760beA3F867b69b3697a91dd',
 }
-export const SWAP_ROUTER_ADDRESSES: AddressMap = constructSameAddressMap('0xE09E30b8a57b245Ba48595663204f5dbAB75bced', [
+export const SWAP_ROUTER_ADDRESSES: AddressMap = constructSameAddressMap('0x9AbC53E03C1ba9b9416E0c0Bc0a34E357B8E8DfF', [
   SupportedChainId.OPTIMISM,
   SupportedChainId.OPTIMISTIC_KOVAN,
   SupportedChainId.ARBITRUM_ONE,
   SupportedChainId.ARBITRUM_RINKEBY,
 ])
-export const V3_MIGRATOR_ADDRESSES: AddressMap = constructSameAddressMap('0xA5644E29708357803b5A882D272c41cC0dF92B34', [
+export const V3_MIGRATOR_ADDRESSES: AddressMap = constructSameAddressMap('0x685db6bF5289A756fE48E7cF96BDEf41FDe8A2Fc', [
   SupportedChainId.ARBITRUM_ONE,
   SupportedChainId.ARBITRUM_RINKEBY,
 ])
