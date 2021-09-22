@@ -154,7 +154,7 @@ export default function ClaimModal() {
                 As a member of the Mintyswap community you may claim UNI to be used for voting and governance.
                 <br />
                 <br />
-                <ExternalLink href="https://mintyswap.com/blog/uni">Read more about UNI</ExternalLink>
+                <ExternalLink href="https://mintyswap.com/blog/uni">Read more about MINTY</ExternalLink>
               </Trans>
             </TYPE.subHeader>
             <ButtonPrimary

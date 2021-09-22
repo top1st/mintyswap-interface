@@ -84,10 +84,14 @@ export default function StakingModal({ isOpen, onDismiss, stakingInfo, userLiqui
   // approval data for stake
   const deadline = useTransactionDeadline()
   const router = useV2RouterContract()
-  const { signatureData, gatherPermitSignature } = useV2LiquidityTokenPermit(parsedAmountWrapped, router?.address)
+  const { signatureData, gatherPermitSignature } = useV2LiquidityTokenPermit(
+    parsedAmountWrapped,
+    stakingInfo.stakingRewardAddress
+  )
   const [approval, approveCallback] = useApproveCallback(parsedAmount, stakingInfo.stakingRewardAddress)
 
   const stakingContract = useStakingContract(stakingInfo.stakingRewardAddress)
+
   async function onStake() {
     setAttempting(true)
     if (stakingContract && parsedAmount && deadline) {
@@ -184,7 +188,7 @@ export default function StakingModal({ isOpen, onDismiss, stakingInfo, userLiqui
                 {hypotheticalRewardRate
                   .multiply((60 * 60 * 24 * 7).toString())
                   .toSignificant(4, { groupSeparator: ',' })}{' '}
-                UNI / week
+                MINTYS / week
               </Trans>
             </TYPE.black>
           </HypotheticalRewardRate>
@@ -216,7 +220,7 @@ export default function StakingModal({ isOpen, onDismiss, stakingInfo, userLiqui
               <Trans>Depositing Liquidity</Trans>
             </TYPE.largeHeader>
             <TYPE.body fontSize={20}>
-              <Trans>{parsedAmount?.toSignificant(4)} UNI-V2</Trans>
+              <Trans>{parsedAmount?.toSignificant(4)} MINTY-V2</Trans>
             </TYPE.body>
           </AutoColumn>
         </LoadingView>
@@ -228,7 +232,7 @@ export default function StakingModal({ isOpen, onDismiss, stakingInfo, userLiqui
               <Trans>Transaction Submitted</Trans>
             </TYPE.largeHeader>
             <TYPE.body fontSize={20}>
-              <Trans>Deposited {parsedAmount?.toSignificant(4)} UNI-V2</Trans>
+              <Trans>Deposited {parsedAmount?.toSignificant(4)} MINTY-V2</Trans>
             </TYPE.body>
           </AutoColumn>
         </SubmittedView>

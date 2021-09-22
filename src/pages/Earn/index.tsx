@@ -49,6 +49,7 @@ export default function Earn() {
    * @todo only account for this if rewards are inactive
    */
   const stakingInfosWithBalance = stakingInfos?.filter((s) => JSBI.greaterThan(s.stakedAmount.quotient, BIG_INT_ZERO))
+  // const stakingInfosWithBalance = stakingInfos
 
   // toggle copy if rewards are inactive
   const stakingRewardsExist = Boolean(typeof chainId === 'number' && (STAKING_REWARDS_INFO[chainId]?.length ?? 0) > 0)
@@ -69,17 +70,17 @@ export default function Earn() {
               <RowBetween>
                 <TYPE.white fontSize={14}>
                   <Trans>
-                    Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token.
+                    Deposit your Liquidity Provider tokens to receive MINTY, the Mintyswap protocol governance token.
                   </Trans>
                 </TYPE.white>
               </RowBetween>{' '}
               <ExternalLink
                 style={{ color: 'white', textDecoration: 'underline' }}
-                href="https://mintyswap.com/blog/uni/"
+                href="https://mintyswap.com/blog/minty/"
                 target="_blank"
               >
                 <TYPE.white fontSize={14}>
-                  <Trans>Read more about UNI</Trans>
+                  <Trans>Read more about MINTY</Trans>
                 </TYPE.white>
               </ExternalLink>
             </AutoColumn>

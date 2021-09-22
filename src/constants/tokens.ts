@@ -16,6 +16,15 @@ export const DAI = new Token(
   'DAI',
   'Dai Stablecoin'
 )
+
+export const DAI_RINKEBY = new Token(
+  SupportedChainId.RINKEBY,
+  '0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735',
+  18,
+  'DAI',
+  'Dai Stablecoin'
+)
+
 export const USDC = new Token(
   SupportedChainId.MAINNET,
   '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',

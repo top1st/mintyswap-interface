@@ -87,8 +87,8 @@ export default function App() {
             <Switch>
               <Route strict path="/vote" render={() => (window.location = 'https://discord.gg/RRMZsKmpFP' as any)} />
               <Route exact strict path="/claim" component={OpenClaimAddressModalAndRedirectToSwap} />
-              <Route exact strict path="/uni" component={Earn} />
-              <Route exact strict path="/uni/:currencyIdA/:currencyIdB" component={Manage} />
+              <Route exact strict path="/minty" component={Earn} />
+              <Route exact strict path="/minty/:currencyIdA/:currencyIdB" component={Manage} />
 
               <Route exact strict path="/send" component={RedirectPathToSwapOnly} />
               <Route exact strict path="/swap/:outputCurrency" component={RedirectToSwap} />

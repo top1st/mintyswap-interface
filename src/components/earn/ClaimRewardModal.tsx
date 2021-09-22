@@ -80,7 +80,7 @@ export default function ClaimRewardModal({ isOpen, onDismiss, stakingInfo }: Sta
                 {stakingInfo?.earnedAmount?.toSignificant(6)}
               </TYPE.body>
               <TYPE.body>
-                <Trans>Unclaimed UNI</Trans>
+                <Trans>Unclaimed MINTYS</Trans>
               </TYPE.body>
             </AutoColumn>
           )}
@@ -108,7 +108,7 @@ export default function ClaimRewardModal({ isOpen, onDismiss, stakingInfo }: Sta
               <Trans>Transaction Submitted</Trans>
             </TYPE.largeHeader>
             <TYPE.body fontSize={20}>
-              <Trans>Claimed UNI!</Trans>
+              <Trans>Claimed MINTYS!</Trans>
             </TYPE.body>
           </AutoColumn>
         </SubmittedView>

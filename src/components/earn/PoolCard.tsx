@@ -118,7 +118,7 @@ export default function PoolCard({ stakingInfo }: { stakingInfo: StakingInfo }) 
           {currency0.symbol}-{currency1.symbol}
         </TYPE.white>
 
-        <StyledInternalLink to={`/uni/${currencyId(currency0)}/${currencyId(currency1)}`} style={{ width: '100%' }}>
+        <StyledInternalLink to={`/minty/${currencyId(currency0)}/${currencyId(currency1)}`} style={{ width: '100%' }}>
           <ButtonPrimary padding="8px" $borderRadius="8px">
             {isStaking ? <Trans>Manage</Trans> : <Trans>Deposit</Trans>}
           </ButtonPrimary>
@@ -147,10 +147,10 @@ export default function PoolCard({ stakingInfo }: { stakingInfo: StakingInfo }) 
               stakingInfo.active ? (
                 <Trans>
                   {stakingInfo.totalRewardRate?.multiply(BIG_INT_SECONDS_IN_WEEK)?.toFixed(0, { groupSeparator: ',' })}{' '}
-                  UNI / week
+                  MINTYS / week
                 </Trans>
               ) : (
-                <Trans>0 UNI / week</Trans>
+                <Trans>0 MINTYS / week</Trans>
               )
             ) : (
               '-'
@@ -179,10 +179,10 @@ export default function PoolCard({ stakingInfo }: { stakingInfo: StakingInfo }) 
                     {stakingInfo.rewardRate
                       ?.multiply(BIG_INT_SECONDS_IN_WEEK)
                       ?.toSignificant(4, { groupSeparator: ',' })}{' '}
-                    UNI / week
+                    MINTYS / week
                   </Trans>
                 ) : (
-                  <Trans>0 UNI / week</Trans>
+                  <Trans>0 MINTYS / week</Trans>
                 )
               ) : (
                 '-'

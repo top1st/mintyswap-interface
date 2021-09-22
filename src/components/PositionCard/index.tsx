@@ -345,7 +345,7 @@ export default function FullPositionCard({ pair, border, stakedBalance }: Positi
                 padding="8px"
                 $borderRadius="8px"
                 as={Link}
-                to={`/uni/${currencyId(currency0)}/${currencyId(currency1)}`}
+                to={`/minty/${currencyId(currency0)}/${currencyId(currency1)}`}
                 width="100%"
               >
                 <Trans>Manage Liquidity in Rewards Pool</Trans>

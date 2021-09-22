@@ -3,7 +3,7 @@ import { Token, CurrencyAmount } from '@uniswap/sdk-core'
 import { Pair } from '@uniswap/v2-sdk'
 import JSBI from 'jsbi'
 import { useMemo } from 'react'
-import { DAI, UNI, USDC, USDT, WBTC, WETH9_EXTENDED } from '../../constants/tokens'
+import { DAI, DAI_RINKEBY, UNI, USDC, USDT, WBTC, WETH9_EXTENDED } from '../../constants/tokens'
 import { useActiveWeb3React } from '../../hooks/web3'
 import { NEVER_RELOAD, useMultipleContractSingleData } from '../multicall/hooks'
 import { tryParseAmount } from '../swap/hooks'
@@ -39,6 +39,12 @@ export const STAKING_REWARDS_INFO: {
     {
       tokens: [WETH9_EXTENDED[1], WBTC],
       stakingRewardAddress: '0xCA35e32e7926b96A9988f61d510E038108d8068e',
+    },
+  ],
+  [4]: [
+    {
+      tokens: [WETH9_EXTENDED[4], DAI_RINKEBY],
+      stakingRewardAddress: '0x3a0A6641784CF3005A4ab35AAC6d48A9E268B959',
     },
   ],
 }
