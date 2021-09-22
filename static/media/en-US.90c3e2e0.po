@@ -54,8 +54,15 @@ msgstr "- Remove send"
 #: src/components/earn/PoolCard.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "0 UNI / week"
-msgstr "0 UNI / week"
+msgid "0 MINTYS / week"
+msgstr "0 MINTYS / week"
+
+#: 
+#: 
+#: 
+#: 
+#~ msgid "0 UNI / week"
+#~ msgstr "0 UNI / week"
 
 #: src/components/FeeSelector/index.tsx
 msgid "0.05% fee"
@@ -268,8 +275,12 @@ msgid "Are you sure?"
 msgstr "Are you sure?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about MINTY</2>"
+msgstr "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about MINTY</2>"
+
+#: 
+#~ msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+#~ msgstr "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -382,8 +393,13 @@ msgstr "Claimed"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claimed UNI!"
-msgstr "Claimed UNI!"
+msgid "Claimed MINTYS!"
+msgstr "Claimed MINTYS!"
+
+#: 
+#: 
+#~ msgid "Claimed UNI!"
+#~ msgstr "Claimed UNI!"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claiming"
@@ -612,8 +628,12 @@ msgid "Deposit Amounts"
 msgstr "Deposit Amounts"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Deposit UNI-V2 LP Tokens"
-msgstr "Deposit UNI-V2 LP Tokens"
+msgid "Deposit MINTY-V2 LP Tokens"
+msgstr "Deposit MINTY-V2 LP Tokens"
+
+#: 
+#~ msgid "Deposit UNI-V2 LP Tokens"
+#~ msgstr "Deposit UNI-V2 LP Tokens"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Deposit liquidity"
@@ -626,16 +646,24 @@ msgid "Deposit to {0}"
 msgstr "Deposit to {0}"
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
-msgstr "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
+msgid "Deposit your Liquidity Provider tokens to receive MINTY, the Mintyswap protocol governance token."
+msgstr "Deposit your Liquidity Provider tokens to receive MINTY, the Mintyswap protocol governance token."
+
+#: 
+#~ msgid "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
+#~ msgstr "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
 msgstr "Deposited liquidity:"
 
 #: src/components/earn/StakingModal.tsx
-msgid "Deposited {0} UNI-V2"
-msgstr "Deposited {0} UNI-V2"
+msgid "Deposited {0} MINTY-V2"
+msgstr "Deposited {0} MINTY-V2"
+
+#: 
+#~ msgid "Deposited {0} UNI-V2"
+#~ msgstr "Deposited {0} UNI-V2"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Depositing Liquidity"
@@ -966,6 +994,14 @@ msgstr "Loaded"
 #: src/pages/Swap/index.tsx
 msgid "Loading"
 msgstr "Loading"
+
+#: src/pages/Earn/Manage.tsx
+msgid "MINTY-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "MINTY-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+
+#: src/pages/Earn/Manage.tsx
+msgid "MINTY-V2 {0}-{1}"
+msgstr "MINTY-V2 {0}-{1}"
 
 #: src/components/earn/PoolCard.tsx
 #: src/components/PositionCard/index.tsx
@@ -1323,13 +1359,17 @@ msgstr "Queued"
 msgid "Rates"
 msgstr "Rates"
 
+#: src/pages/Earn/index.tsx
+msgid "Read more about MINTY"
+msgstr "Read more about MINTY"
+
 #: src/pages/Vote/index.tsx
 msgid "Read more about Mintyswap governance"
 msgstr "Read more about Mintyswap governance"
 
-#: src/pages/Earn/index.tsx
-msgid "Read more about UNI"
-msgstr "Read more about UNI"
+#: 
+#~ msgid "Read more about UNI"
+#~ msgstr "Read more about UNI"
 
 #: src/pages/Pool/v2.tsx
 msgid "Read more about providing liquidity"
@@ -1483,8 +1523,12 @@ msgid "Status"
 msgstr "Status"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Step 1. Get UNI-V2 Liquidity tokens"
-msgstr "Step 1. Get UNI-V2 Liquidity tokens"
+msgid "Step 1. Get MINTY-V2 Liquidity tokens"
+msgstr "Step 1. Get MINTY-V2 Liquidity tokens"
+
+#: 
+#~ msgid "Step 1. Get UNI-V2 Liquidity tokens"
+#~ msgstr "Step 1. Get UNI-V2 Liquidity tokens"
 
 #: src/state/governance/hooks.ts
 msgid "Submitted new proposal"
@@ -1708,18 +1752,23 @@ msgstr "UNI tokens represent voting shares in Mintyswap governance. You can vote
 msgid "UNI {0}/{1} Burned"
 msgstr "UNI {0}/{1} Burned"
 
-#: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
-msgstr "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+#: 
+#~ msgid "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+#~ msgstr "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
 
-#: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 {0}-{1}"
-msgstr "UNI-V2 {0}-{1}"
+#: 
+#~ msgid "UNI-V2 {0}-{1}"
+#~ msgstr "UNI-V2 {0}-{1}"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Unclaimed UNI"
-msgstr "Unclaimed UNI"
+msgid "Unclaimed MINTYS"
+msgstr "Unclaimed MINTYS"
+
+#: 
+#: 
+#~ msgid "Unclaimed UNI"
+#~ msgstr "Unclaimed UNI"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Unclaimed fees"
@@ -1907,12 +1956,20 @@ msgid "Withdraw deposited liquidity"
 msgstr "Withdraw deposited liquidity"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrawing {0} UNI-V2"
-msgstr "Withdrawing {0} UNI-V2"
+msgid "Withdrawing {0} MINTY-V2"
+msgstr "Withdrawing {0} MINTY-V2"
+
+#: 
+#~ msgid "Withdrawing {0} UNI-V2"
+#~ msgstr "Withdrawing {0} UNI-V2"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrew UNI-V2!"
-msgstr "Withdrew UNI-V2!"
+msgid "Withdrew MINTY-V2!"
+msgstr "Withdrew MINTY-V2!"
+
+#: 
+#~ msgid "Withdrew UNI-V2!"
+#~ msgstr "Withdrew UNI-V2!"
 
 #: src/pages/Swap/index.tsx
 msgid "Wrap"
@@ -2073,8 +2130,12 @@ msgid "Your transactions will appear here..."
 msgstr "Your transactions will appear here..."
 
 #: src/pages/Earn/Manage.tsx
-msgid "Your unclaimed UNI"
-msgstr "Your unclaimed UNI"
+msgid "Your unclaimed MINTYS"
+msgstr "Your unclaimed MINTYS"
+
+#: 
+#~ msgid "Your unclaimed UNI"
+#~ msgstr "Your unclaimed UNI"
 
 #: src/components/Settings/index.tsx
 msgid "confirm"
@@ -2153,6 +2214,22 @@ msgstr "{0} Explorer"
 msgid "{0} Fees Earned:"
 msgstr "{0} Fees Earned:"
 
+#: src/components/earn/StakingModal.tsx
+msgid "{0} MINTY-V2"
+msgstr "{0} MINTY-V2"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} MINTY-V2 LP tokens available"
+msgstr "{0} MINTY-V2 LP tokens available"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} MINTYS / week"
+msgstr "{0} MINTYS / week"
+
 #: src/components/Web3Status/index.tsx
 msgid "{0} Pending"
 msgstr "{0} Pending"
@@ -2165,21 +2242,21 @@ msgstr "{0} Pending"
 msgid "{0} UNI"
 msgstr "{0} UNI"
 
-#: src/components/earn/PoolCard.tsx
-#: src/components/earn/PoolCard.tsx
-#: src/components/earn/StakingModal.tsx
-#: src/pages/Earn/Manage.tsx
-#: src/pages/Earn/Manage.tsx
-msgid "{0} UNI / week"
-msgstr "{0} UNI / week"
+#: 
+#: 
+#: 
+#: 
+#: 
+#~ msgid "{0} UNI / week"
+#~ msgstr "{0} UNI / week"
 
-#: src/components/earn/StakingModal.tsx
-msgid "{0} UNI-V2"
-msgstr "{0} UNI-V2"
+#: 
+#~ msgid "{0} UNI-V2"
+#~ msgstr "{0} UNI-V2"
 
-#: src/pages/Earn/Manage.tsx
-msgid "{0} UNI-V2 LP tokens available"
-msgstr "{0} UNI-V2 LP tokens available"
+#: 
+#~ msgid "{0} UNI-V2 LP tokens available"
+#~ msgstr "{0} UNI-V2 LP tokens available"
 
 #: src/components/vote/VoteModal.tsx
 msgid "{0} Votes"
