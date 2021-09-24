@@ -248,7 +248,7 @@ export default function Menu() {
                     </div>
                     <MessageCircle opacity={0.6} size={16} />
                   </MenuItem>
-                  <MenuItem href="https://www.dextools.io/app/ether/pair-explorer/0x1ae2bf1c5e67509ef5b2367751a87e65c47be2c4">
+                  <MenuItem href="https://info.mintyswap.com">
                     <div>
                       <Trans>Analytics</Trans>
                     </div>
