@@ -1518,6 +1518,10 @@ msgstr "Some assets are not available through this interface because they may no
 msgid "Something went wrong"
 msgstr "Something went wrong"
 
+#: src/components/Header/index.tsx
+msgid "Staking"
+msgstr "Staking"
+
 #: src/components/PositionList/index.tsx
 msgid "Status"
 msgstr "Status"
