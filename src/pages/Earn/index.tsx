@@ -48,8 +48,8 @@ export default function Earn() {
    * only show staking cards with balance
    * @todo only account for this if rewards are inactive
    */
-  const stakingInfosWithBalance = stakingInfos?.filter((s) => JSBI.greaterThan(s.stakedAmount.quotient, BIG_INT_ZERO))
-  // const stakingInfosWithBalance = stakingInfos
+  // const stakingInfosWithBalance = stakingInfos?.filter((s) => JSBI.greaterThan(s.stakedAmount.quotient, BIG_INT_ZERO))
+  const stakingInfosWithBalance = stakingInfos
 
   // toggle copy if rewards are inactive
   const stakingRewardsExist = Boolean(typeof chainId === 'number' && (STAKING_REWARDS_INFO[chainId]?.length ?? 0) > 0)

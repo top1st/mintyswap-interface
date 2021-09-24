@@ -295,6 +295,9 @@ export default function Header() {
         >
           <Trans>Pool</Trans>
         </StyledNavLink>
+        <StyledNavLink id={`swap-nav-link`} to={'/minty'}>
+          <Trans>Staking</Trans>
+        </StyledNavLink>
         {chainId && chainId === SupportedChainId.MAINNET && (
           <StyledExternalLink id={`stake-nav-link`} href={'https://discord.gg/RRMZsKmpFP'}>
             <Trans>Vote</Trans>
