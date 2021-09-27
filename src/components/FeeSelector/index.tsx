@@ -45,7 +45,7 @@ const FocusedOutlineCard = styled(Card)<{ pulsing: boolean }>`
 
 const FeeAmountLabel = {
   [FeeAmount.LOW]: {
-    label: '0.05',
+    label: '0.03',
     description: <Trans>Best for stable pairs.</Trans>,
   },
   [FeeAmount.MEDIUM]: {
