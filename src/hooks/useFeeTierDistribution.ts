@@ -125,6 +125,7 @@ function usePoolTVL(token0: Token | undefined, token1: Token | undefined) {
       },
       {
         [FeeAmount.LOW]: [undefined, undefined],
+        [500]: [undefined, undefined],
         [FeeAmount.MEDIUM]: [undefined, undefined],
         [FeeAmount.HIGH]: [undefined, undefined],
       }
