@@ -1942,12 +1942,20 @@ msgid "When you claim without withdrawing your liquidity remains in the mining p
 msgstr "When you claim without withdrawing your liquidity remains in the mining pool."
 
 #: src/pages/Earn/Manage.tsx
-msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
-msgstr "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgid "When you withdraw, the contract will automagically claim MINTYS on your behalf!"
+msgstr "When you withdraw, the contract will automagically claim MINTYS on your behalf!"
+
+#: 
+#~ msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+#~ msgstr "When you withdraw, the contract will automagically claim UNI on your behalf!"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
-msgstr "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgid "When you withdraw, your MINTYS is claimed and your liquidity is removed from the mining pool."
+msgstr "When you withdraw, your MINTYS is claimed and your liquidity is removed from the mining pool."
+
+#: 
+#~ msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+#~ msgstr "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
 
 #: src/components/earn/UnstakingModal.tsx
 #: src/pages/Earn/Manage.tsx
