@@ -7,6 +7,7 @@ type AddressMap = { [chainId: number]: string }
 
 export const UNI_ADDRESS: AddressMap = {
   ...constructSameAddressMap('0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984'),
+  [SupportedChainId.MAINNET]: '0xBbd900e05b4aF2124390D206F70bc4E583B1bE85',
   [SupportedChainId.RINKEBY]: '0x5360E0e7fc295C6E49E9F879F1dc7fCbaBED425A',
 }
 export const MULTICALL_ADDRESS: AddressMap = {

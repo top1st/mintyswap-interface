@@ -139,7 +139,7 @@ export const MIR = new Token(
   'Wrapped MIR'
 )
 export const UNI: { [chainId: number]: Token } = {
-  [SupportedChainId.MAINNET]: new Token(SupportedChainId.MAINNET, UNI_ADDRESS[1], 18, 'UNI', 'Mintyswap'),
+  [SupportedChainId.MAINNET]: new Token(SupportedChainId.MAINNET, UNI_ADDRESS[1], 9, 'MINTYS', 'Mintyswap'),
   [SupportedChainId.RINKEBY]: new Token(SupportedChainId.RINKEBY, UNI_ADDRESS[4], 9, 'MINTYS', 'Mintyswap'),
   [SupportedChainId.ROPSTEN]: new Token(SupportedChainId.ROPSTEN, UNI_ADDRESS[3], 18, 'UNI', 'Mintyswap'),
   [SupportedChainId.GOERLI]: new Token(SupportedChainId.GOERLI, UNI_ADDRESS[5], 18, 'UNI', 'Mintyswap'),
