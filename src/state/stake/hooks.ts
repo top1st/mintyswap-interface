@@ -13,9 +13,9 @@ import { abi as STAKING_REWARDS_ABI } from '@uniswap/liquidity-staker/build/Stak
 
 const STAKING_REWARDS_INTERFACE = new Interface(STAKING_REWARDS_ABI)
 
-export const STAKING_GENESIS = 1600387200
+export const STAKING_GENESIS = 1632995819
 
-export const REWARDS_DURATION_DAYS = 60
+export const REWARDS_DURATION_DAYS = 365
 
 export const STAKING_REWARDS_INFO: {
   [chainId: number]: {
