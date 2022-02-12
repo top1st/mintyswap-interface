@@ -112,7 +112,7 @@ export default function UnstakingModal({ isOpen, onDismiss, stakingInfo }: Staki
               <Trans>Withdrawing {stakingInfo?.stakedAmount?.toSignificant(4)} MINTY-V2</Trans>
             </TYPE.body>
             <TYPE.body fontSize={20}>
-              <Trans>Claiming {stakingInfo?.earnedAmount?.toSignificant(4)} UNI</Trans>
+              <Trans>Claiming {stakingInfo?.earnedAmount?.toSignificant(4)} MINTYS</Trans>
             </TYPE.body>
           </AutoColumn>
         </LoadingView>

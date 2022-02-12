@@ -59,8 +59,8 @@ msgstr "- Odebrat odeslání"
 #: src/components/earn/PoolCard.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "0 UNI / week"
-msgstr "0 UNI / týden"
+msgid "0 MINTYS / week"
+msgstr "0 MINTYS / týden"
 
 #: src/components/FeeSelector/index.tsx
 msgid "0.05% fee"
@@ -132,8 +132,8 @@ msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
 msgstr "<0>🎉 </0>Vítejte v týmu Unicorn :) <1>🎉</1>"
 
 #: src/pages/Vote/index.tsx
-msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
-msgstr "K podání návrhů je nutná minimální hranice 0,25% z celkové nabídky UNI"
+msgid "A minimum threshold of 0.25% of the total MINTYS supply is required to submit proposals"
+msgstr "K podání návrhů je nutná minimální hranice 0,25% z celkové nabídky MINTYS"
 
 #: src/components/Menu/index.tsx
 msgid "About"
@@ -273,8 +273,8 @@ msgid "Are you sure?"
 msgstr "Jste si jisti?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "Jako člen komunity Mintyswap si můžete nárokovat UNI k použití při hlasování a správě věcí veřejných.<0/><1/><2>Přečtěte si více o UNI</2>"
+msgid "As a member of the Mintyswap community you may claim MINTYS to be used for voting and governance.<0/><1/><2>Read more about MINTYS</2>"
+msgstr "Jako člen komunity Mintyswap si můžete nárokovat MINTYS k použití při hlasování a správě věcí veřejných.<0/><1/><2>Přečtěte si více o MINTYS</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -362,25 +362,25 @@ msgstr "Nárokovat"
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "Claim UNI"
-msgstr "Nárokovat si UNI"
+msgid "Claim MINTYS"
+msgstr "Nárokovat si MINTYS"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Claim UNI Token"
-msgstr "Nárokujte si žeton UNI"
+msgid "Claim MINTYS Token"
+msgstr "Nárokujte si žeton MINTYS"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/ClaimRewardModal.tsx
-msgid "Claim accumulated UNI rewards"
-msgstr "Nárokujte si akumulované odměny UNI"
+msgid "Claim accumulated MINTYS rewards"
+msgstr "Nárokujte si akumulované odměny MINTYS"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Claim fees"
 msgstr "Poplatky za nárokování"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Claim your UNI tokens"
-msgstr "Nárokujte si své žetony UNI"
+msgid "Claim your MINTYS tokens"
+msgstr "Nárokujte si své žetony MINTYS"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claimed"
@@ -388,21 +388,21 @@ msgstr "Nárokováno"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claimed UNI!"
-msgstr "Nárokováno UNI!"
+msgid "Claimed MINTYS!"
+msgstr "Nárokováno MINTYS!"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claiming"
 msgstr "Nárokování"
 
 #: src/components/Header/index.tsx
-msgid "Claiming UNI"
-msgstr "Nárokování UNI"
+msgid "Claiming MINTYS"
+msgstr "Nárokování MINTYS"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claiming {0} UNI"
-msgstr "Nárokování {0} UNI"
+msgid "Claiming {0} MINTYS"
+msgstr "Nárokování {0} MINTYS"
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Clear All"
@@ -618,8 +618,8 @@ msgid "Deposit Amounts"
 msgstr "Vložit částky"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Deposit UNI-V2 LP Tokens"
-msgstr "Uložit žetony UNI-V2 LP"
+msgid "Deposit MINTYS-V2 LP Tokens"
+msgstr "Uložit žetony MINTYS-V2 LP"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Deposit liquidity"
@@ -632,16 +632,16 @@ msgid "Deposit to {0}"
 msgstr "Vložit na {0}"
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
-msgstr "Uložte své žetony poskytovatele likvidity, abyste dostali UNI, žeton správy protokolu Mintyswap."
+msgid "Deposit your Liquidity Provider tokens to receive MINTYS, the Mintyswap protocol governance token."
+msgstr "Uložte své žetony poskytovatele likvidity, abyste dostali MINTYS, žeton správy protokolu Mintyswap."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
 msgstr "Uložená likvidita:"
 
 #: src/components/earn/StakingModal.tsx
-msgid "Deposited {0} UNI-V2"
-msgstr "Uloženo {0} UNI-V2"
+msgid "Deposited {0} MINTYS-V2"
+msgstr "Uloženo {0} MINTYS-V2"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Depositing Liquidity"
@@ -684,8 +684,8 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Nevidíte některou ze svých pozic v2? <0>Importujte ji.</0>"
 
 #: src/components/vote/DelegateModal.tsx
-msgid "Earned UNI tokens represent voting shares in Mintyswap governance."
-msgstr "Získané žetony UNI představují hlasovací podíly ve správě Mintyswap."
+msgid "Earned MINTYS tokens represent voting shares in Mintyswap governance."
+msgstr "Získané žetony MINTYS představují hlasovací podíly ve správě Mintyswap."
 
 #: src/components/FeeSelector/index.tsx
 msgid "Edit"
@@ -708,8 +708,8 @@ msgid "Enter a valid slippage percentage"
 msgstr "Zadejte platné procento skluzu"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
-msgstr "Chcete-li spustit nárokování UNI, zadejte adresu. Jestliže bude mít adresa nějaké nárokovatelné UNI, bude jim po odeslání posláno."
+msgid "Enter an address to trigger a MINTYS claim. If the address has any claimable MINTYS it will be sent to them on submission."
+msgstr "Chcete-li spustit nárokování MINTYS, zadejte adresu. Jestliže bude mít adresa nějaké nárokovatelné MINTYS, bude jim po odeslání posláno."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
@@ -1127,8 +1127,8 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Až budete spokojeni se sazbou, klikněte na zásobu pro kontrolu."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
-msgstr "Způsobilé k hlasování jsou jen hlasy UNI, které byly delegovány sobě nebo delegovány na jinou adresu před blokem {0}."
+msgid "Only MINTYS votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Způsobilé k hlasování jsou jen hlasy MINTYS, které byly delegovány sobě nebo delegovány na jinou adresu před blokem {0}."
 
 #: src/components/Web3ReactManager/index.tsx
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
@@ -1306,8 +1306,8 @@ msgid "Rates"
 msgstr "Sazby"
 
 #: src/pages/Earn/index.tsx
-msgid "Read more about UNI"
-msgstr "Přečtěte si více o UNI"
+msgid "Read more about MINTYS"
+msgstr "Přečtěte si více o MINTYS"
 
 #: src/pages/Vote/index.tsx
 msgid "Read more about Mintyswap governance"
@@ -1465,8 +1465,8 @@ msgid "Status"
 msgstr "Postavení"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Step 1. Get UNI-V2 Liquidity tokens"
-msgstr "Krok 1. Získejte žetony likvidity UNI-V2"
+msgid "Step 1. Get MINTYS-V2 Liquidity tokens"
+msgstr "Krok 1. Získejte žetony likvidity MINTYS-V2"
 
 #: src/state/governance/hooks.ts
 msgid "Submitted new proposal"
@@ -1671,37 +1671,37 @@ msgid "Turn On Expert Mode"
 msgstr "Zapnout režim Expert"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "UNI has arrived"
-msgstr "UNI dorazila"
+msgid "MINTYS has arrived"
+msgstr "MINTYS dorazila"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI in circulation:"
-msgstr "UNI v oběhu:"
+msgid "MINTYS in circulation:"
+msgstr "MINTYS v oběhu:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI price:"
-msgstr "Cena UNI:"
+msgid "MINTYS price:"
+msgstr "Cena MINTYS:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "Žetony UNI představují hlasovací podíly ve správě Mintyswap. O každém návrhu můžete buďto hlasovat sami, nebo můžete delegovat své hlasy na nějakou třetí stranu."
+msgid "MINTYS tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Žetony MINTYS představují hlasovací podíly ve správě Mintyswap. O každém návrhu můžete buďto hlasovat sami, nebo můžete delegovat své hlasy na nějakou třetí stranu."
 
 #: src/pages/RemoveLiquidity/index.tsx
-msgid "UNI {0}/{1} Burned"
-msgstr "UNI {0}/{1} vypáleno"
+msgid "MINTYS {0}/{1} Burned"
+msgstr "MINTYS {0}/{1} vypáleno"
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
-msgstr "Žetony UNI-V2 LP jsou povinné. Až přidáte likviditu do fondu {0}-{1}, můžete na této stránce uložit své žetony likvidity."
+msgid "MINTYS-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "Žetony MINTYS-V2 LP jsou povinné. Až přidáte likviditu do fondu {0}-{1}, můžete na této stránce uložit své žetony likvidity."
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 {0}-{1}"
-msgstr "UNI-V2 {0}-{1}"
+msgid "MINTYS-V2 {0}-{1}"
+msgstr "MINTYS-V2 {0}-{1}"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Unclaimed UNI"
-msgstr "Nenárokované UNI"
+msgid "Unclaimed MINTYS"
+msgstr "Nenárokované MINTYS"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Unclaimed fees"
@@ -1808,8 +1808,8 @@ msgid "V3 {0} Price:"
 msgstr "V3 {0} cena:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "View UNI Analytics"
-msgstr "Zobrazit UNI Analytics"
+msgid "View MINTYS Analytics"
+msgstr "Zobrazit MINTYS Analytics"
 
 #: src/pages/Pool/index.tsx
 msgid "View V2 Liquidity"
@@ -1891,12 +1891,12 @@ msgid "When you claim without withdrawing your liquidity remains in the mining p
 msgstr "Když budete nárokovat, aniž byste vybírali, vaše likvidita zůstává v těžebním fondu."
 
 #: src/pages/Earn/Manage.tsx
-msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
-msgstr "Když budete vybírat, smlouva bude automaticky nárokovat UNI ve váš prospěch!"
+msgid "When you withdraw, the contract will automagically claim MINTYS on your behalf!"
+msgstr "Když budete vybírat, smlouva bude automaticky nárokovat MINTYS ve váš prospěch!"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
-msgstr "Když budete vybírat, vaše UNI budou nárokovány a vaše likvidita bude odstraněna z těžebního fondu."
+msgid "When you withdraw, your MINTYS is claimed and your liquidity is removed from the mining pool."
+msgstr "Když budete vybírat, vaše MINTYS budou nárokovány a vaše likvidita bude odstraněna z těžebního fondu."
 
 #: src/components/earn/UnstakingModal.tsx
 #: src/pages/Earn/Manage.tsx
@@ -1913,12 +1913,12 @@ msgid "Withdraw deposited liquidity"
 msgstr "Vybrat uloženou likviditu"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrawing {0} UNI-V2"
-msgstr "Výběr {0} UNI-V2"
+msgid "Withdrawing {0} MINTYS-V2"
+msgstr "Výběr {0} MINTYS-V2"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrew UNI-V2!"
-msgstr "UNI-V2 vybráno!"
+msgid "Withdrew MINTYS-V2!"
+msgstr "MINTYS-V2 vybráno!"
 
 #: src/pages/Swap/index.tsx
 msgid "Wrap"
@@ -1992,8 +1992,8 @@ msgid "You will receive"
 msgstr "Obdržíte"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "Your UNI Breakdown"
-msgstr "Váš rozpis UNI"
+msgid "Your MINTYS Breakdown"
+msgstr "Váš rozpis MINTYS"
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2079,8 +2079,8 @@ msgid "Your transactions will appear here..."
 msgstr "Tady se budou zobrazovat vaše transakce..."
 
 #: src/pages/Earn/Manage.tsx
-msgid "Your unclaimed UNI"
-msgstr "Vaše nenárokované UNI"
+msgid "Your unclaimed MINTYS"
+msgstr "Vaše nenárokované MINTYS"
 
 #: src/components/Settings/index.tsx
 msgid "confirm"
@@ -2168,24 +2168,24 @@ msgstr "{0} nevyřízených"
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "{0} UNI"
-msgstr "{0} UNI"
+msgid "{0} MINTYS"
+msgstr "{0} MINTYS"
 
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI / week"
-msgstr "{0} UNI / týden"
+msgid "{0} MINTYS / week"
+msgstr "{0} MINTYS / týden"
 
 #: src/components/earn/StakingModal.tsx
-msgid "{0} UNI-V2"
-msgstr "{0} UNI-V2"
+msgid "{0} MINTYS-V2"
+msgstr "{0} MINTYS-V2"
 
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI-V2 LP tokens available"
-msgstr "{0} dostupných žetonů UNI-V2 LP"
+msgid "{0} MINTYS-V2 LP tokens available"
+msgstr "{0} dostupných žetonů MINTYS-V2 LP"
 
 #: src/components/vote/VoteModal.tsx
 msgid "{0} Votes"
@@ -2248,12 +2248,12 @@ msgid "{0}/{1} LP Tokens"
 msgstr "Žetony LP {0}/{1} "
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{SOCKS_AMOUNT} UNI"
-msgstr "{SOCKS_AMOUNT} UNI"
+msgid "{SOCKS_AMOUNT} MINTYS"
+msgstr "{SOCKS_AMOUNT} MINTYS"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{USER_AMOUNT} UNI"
-msgstr "{USER_AMOUNT} UNI"
+msgid "{USER_AMOUNT} MINTYS"
+msgstr "{USER_AMOUNT} MINTYS"
 
 #: src/components/SearchModal/ManageLists.tsx
 msgid "{activeTokensOnThisChain} tokens"

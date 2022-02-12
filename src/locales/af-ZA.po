@@ -59,8 +59,8 @@ msgstr "- Verwyder stuur"
 #: src/components/earn/PoolCard.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "0 UNI / week"
-msgstr "0 UNI / week"
+msgid "0 MINTYS / week"
+msgstr "0 MINTYS / week"
 
 #: src/components/FeeSelector/index.tsx
 msgid "0.05% fee"
@@ -132,8 +132,8 @@ msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
 msgstr "<0> 🎉</0> Welkom by die Unicorn span :) <1> 🎉</1>"
 
 #: src/pages/Vote/index.tsx
-msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
-msgstr "'N Minimum drempel van 0,25% van die totale UNI-aanbod is nodig om voorstelle in te dien"
+msgid "A minimum threshold of 0.25% of the total MINTYS supply is required to submit proposals"
+msgstr "'N Minimum drempel van 0,25% van die totale MINTYS-aanbod is nodig om voorstelle in te dien"
 
 #: src/components/Menu/index.tsx
 msgid "About"
@@ -273,8 +273,8 @@ msgid "Are you sure?"
 msgstr "Is jy seker?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "As lid van die Mintyswap-gemeenskap kan u daarop aanspraak maak dat UNI gebruik word vir stemming en beheer. <0/> <1/> <2> Lees meer oor UNI</2>"
+msgid "As a member of the Mintyswap community you may claim MINTYS to be used for voting and governance.<0/><1/><2>Read more about MINTYS</2>"
+msgstr "As lid van die Mintyswap-gemeenskap kan u daarop aanspraak maak dat MINTYS gebruik word vir stemming en beheer. <0/> <1/> <2> Lees meer oor MINTYS</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -362,25 +362,25 @@ msgstr "Eis"
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "Claim UNI"
-msgstr "Eis UNI"
+msgid "Claim MINTYS"
+msgstr "Eis MINTYS"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Claim UNI Token"
-msgstr "Eis UNI-teken"
+msgid "Claim MINTYS Token"
+msgstr "Eis MINTYS-teken"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/ClaimRewardModal.tsx
-msgid "Claim accumulated UNI rewards"
-msgstr "Eis opgehoopte UNI-belonings"
+msgid "Claim accumulated MINTYS rewards"
+msgstr "Eis opgehoopte MINTYS-belonings"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Claim fees"
 msgstr "Eisgelde"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Claim your UNI tokens"
-msgstr "Eis u UNI-tekens op"
+msgid "Claim your MINTYS tokens"
+msgstr "Eis u MINTYS-tekens op"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claimed"
@@ -388,21 +388,21 @@ msgstr "Geëis"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claimed UNI!"
-msgstr "UNI geëis!"
+msgid "Claimed MINTYS!"
+msgstr "MINTYS geëis!"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claiming"
 msgstr "Eis"
 
 #: src/components/Header/index.tsx
-msgid "Claiming UNI"
-msgstr "Eis UNI"
+msgid "Claiming MINTYS"
+msgstr "Eis MINTYS"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claiming {0} UNI"
-msgstr "Eis {0} UNI"
+msgid "Claiming {0} MINTYS"
+msgstr "Eis {0} MINTYS"
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Clear All"
@@ -618,8 +618,8 @@ msgid "Deposit Amounts"
 msgstr "Depositobedrae"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Deposit UNI-V2 LP Tokens"
-msgstr "Plaas UNI-V2 LP-tekens"
+msgid "Deposit MINTYS-V2 LP Tokens"
+msgstr "Plaas MINTYS-V2 LP-tekens"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Deposit liquidity"
@@ -632,16 +632,16 @@ msgid "Deposit to {0}"
 msgstr "Deposito na {0}"
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
-msgstr "Deponeer u likiditeitsverskaffer-tekens om UNI, die Mintyswap-protokolbestuursteken, te ontvang."
+msgid "Deposit your Liquidity Provider tokens to receive MINTYS, the Mintyswap protocol governance token."
+msgstr "Deponeer u likiditeitsverskaffer-tekens om MINTYS, die Mintyswap-protokolbestuursteken, te ontvang."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
 msgstr "Gedeponeerde likiditeit:"
 
 #: src/components/earn/StakingModal.tsx
-msgid "Deposited {0} UNI-V2"
-msgstr "Deponeer {0} UNI-V2"
+msgid "Deposited {0} MINTYS-V2"
+msgstr "Deponeer {0} MINTYS-V2"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Depositing Liquidity"
@@ -684,8 +684,8 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Sien u nie een van u v2-posisies nie? <0> Voer dit in.</0>"
 
 #: src/components/vote/DelegateModal.tsx
-msgid "Earned UNI tokens represent voting shares in Mintyswap governance."
-msgstr "Verdiende UNI-tekens verteenwoordig stemgeregtigde aandele in Mintyswap-bestuur."
+msgid "Earned MINTYS tokens represent voting shares in Mintyswap governance."
+msgstr "Verdiende MINTYS-tekens verteenwoordig stemgeregtigde aandele in Mintyswap-bestuur."
 
 #: src/components/FeeSelector/index.tsx
 msgid "Edit"
@@ -708,8 +708,8 @@ msgid "Enter a valid slippage percentage"
 msgstr "Voer 'n geldige glippersentasie in"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
-msgstr "Voer 'n adres in om 'n UNI-eis te aktiveer. As die adres 'n UNI kan eis, sal dit na indiening aan hulle gestuur word."
+msgid "Enter an address to trigger a MINTYS claim. If the address has any claimable MINTYS it will be sent to them on submission."
+msgstr "Voer 'n adres in om 'n MINTYS-eis te aktiveer. As die adres 'n MINTYS kan eis, sal dit na indiening aan hulle gestuur word."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
@@ -1127,8 +1127,8 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Sodra u tevrede is met die tarief, klik op die aanbod om dit te hersien."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
-msgstr "Slegs stemgeregtigdes van UNI wat self gedelegeer is of na 'n ander adres voor blok {0} gedelegeer is."
+msgid "Only MINTYS votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Slegs stemgeregtigdes van MINTYS wat self gedelegeer is of na 'n ander adres voor blok {0} gedelegeer is."
 
 #: src/components/Web3ReactManager/index.tsx
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
@@ -1306,8 +1306,8 @@ msgid "Rates"
 msgstr "Tariewe"
 
 #: src/pages/Earn/index.tsx
-msgid "Read more about UNI"
-msgstr "Lees meer oor UNI"
+msgid "Read more about MINTYS"
+msgstr "Lees meer oor MINTYS"
 
 #: src/pages/Vote/index.tsx
 msgid "Read more about Mintyswap governance"
@@ -1465,8 +1465,8 @@ msgid "Status"
 msgstr "Status"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Step 1. Get UNI-V2 Liquidity tokens"
-msgstr "Stap 1. Kry UNI-V2 likiditeitstekens"
+msgid "Step 1. Get MINTYS-V2 Liquidity tokens"
+msgstr "Stap 1. Kry MINTYS-V2 likiditeitstekens"
 
 #: src/state/governance/hooks.ts
 msgid "Submitted new proposal"
@@ -1671,37 +1671,37 @@ msgid "Turn On Expert Mode"
 msgstr "Skakel kundigheidsmodus aan"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "UNI has arrived"
-msgstr "UNI het aangebreek"
+msgid "MINTYS has arrived"
+msgstr "MINTYS het aangebreek"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI in circulation:"
-msgstr "UNI in omloop:"
+msgid "MINTYS in circulation:"
+msgstr "MINTYS in omloop:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI price:"
-msgstr "UNI-prys:"
+msgid "MINTYS price:"
+msgstr "MINTYS-prys:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "UNI-tekens verteenwoordig stemgeregtigde aandele in Mintyswap-bestuur. U kan self oor elke voorstel stem of u stemme aan 'n derde party delegeer."
+msgid "MINTYS tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "MINTYS-tekens verteenwoordig stemgeregtigde aandele in Mintyswap-bestuur. U kan self oor elke voorstel stem of u stemme aan 'n derde party delegeer."
 
 #: src/pages/RemoveLiquidity/index.tsx
-msgid "UNI {0}/{1} Burned"
-msgstr "UNI {0}/{1} Verbrand"
+msgid "MINTYS {0}/{1} Burned"
+msgstr "MINTYS {0}/{1} Verbrand"
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
-msgstr "UNI-V2 LP-tekens word vereis. Nadat u likiditeit by die {0}-{1} poel gevoeg het, kan u u likiditeitsteken op hierdie bladsy insit."
+msgid "MINTYS-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "MINTYS-V2 LP-tekens word vereis. Nadat u likiditeit by die {0}-{1} poel gevoeg het, kan u u likiditeitsteken op hierdie bladsy insit."
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 {0}-{1}"
-msgstr "UNI-V2 {0}-{1}"
+msgid "MINTYS-V2 {0}-{1}"
+msgstr "MINTYS-V2 {0}-{1}"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Unclaimed UNI"
-msgstr "Onopgeëiste UNI"
+msgid "Unclaimed MINTYS"
+msgstr "Onopgeëiste MINTYS"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Unclaimed fees"
@@ -1808,8 +1808,8 @@ msgid "V3 {0} Price:"
 msgstr "V3 {0} prys:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "View UNI Analytics"
-msgstr "Kyk na UNI Analytics"
+msgid "View MINTYS Analytics"
+msgstr "Kyk na MINTYS Analytics"
 
 #: src/pages/Pool/index.tsx
 msgid "View V2 Liquidity"
@@ -1891,12 +1891,12 @@ msgid "When you claim without withdrawing your liquidity remains in the mining p
 msgstr "As u eis sonder om te onttrek, bly u likiditeit in die mynpoel."
 
 #: src/pages/Earn/Manage.tsx
-msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
-msgstr "As u onttrek, sal die kontrak outomaties namens u UNI eis!"
+msgid "When you withdraw, the contract will automagically claim MINTYS on your behalf!"
+msgstr "As u onttrek, sal die kontrak outomaties namens u MINTYS eis!"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
-msgstr "By u onttrekking word u UNI geëis en u likiditeit uit die mynpoel verwyder."
+msgid "When you withdraw, your MINTYS is claimed and your liquidity is removed from the mining pool."
+msgstr "By u onttrekking word u MINTYS geëis en u likiditeit uit die mynpoel verwyder."
 
 #: src/components/earn/UnstakingModal.tsx
 #: src/pages/Earn/Manage.tsx
@@ -1913,12 +1913,12 @@ msgid "Withdraw deposited liquidity"
 msgstr "Onttrek gedeponeerde likiditeit"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrawing {0} UNI-V2"
-msgstr "Onttrek {0} UNI-V2"
+msgid "Withdrawing {0} MINTYS-V2"
+msgstr "Onttrek {0} MINTYS-V2"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrew UNI-V2!"
-msgstr "UNI-V2 onttrek!"
+msgid "Withdrew MINTYS-V2!"
+msgstr "MINTYS-V2 onttrek!"
 
 #: src/pages/Swap/index.tsx
 msgid "Wrap"
@@ -1992,8 +1992,8 @@ msgid "You will receive"
 msgstr "U sal ontvang"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "Your UNI Breakdown"
-msgstr "U UNI-uiteensetting"
+msgid "Your MINTYS Breakdown"
+msgstr "U MINTYS-uiteensetting"
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2079,8 +2079,8 @@ msgid "Your transactions will appear here..."
 msgstr "U transaksies sal hier verskyn ..."
 
 #: src/pages/Earn/Manage.tsx
-msgid "Your unclaimed UNI"
-msgstr "U onopgeëiste UNI"
+msgid "Your unclaimed MINTYS"
+msgstr "U onopgeëiste MINTYS"
 
 #: src/components/Settings/index.tsx
 msgid "confirm"
@@ -2168,24 +2168,24 @@ msgstr "{0} hangende"
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "{0} UNI"
-msgstr "{0} UNI"
+msgid "{0} MINTYS"
+msgstr "{0} MINTYS"
 
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI / week"
-msgstr "{0} UNI / week"
+msgid "{0} MINTYS / week"
+msgstr "{0} MINTYS / week"
 
 #: src/components/earn/StakingModal.tsx
-msgid "{0} UNI-V2"
-msgstr "{0} UNI-V2"
+msgid "{0} MINTYS-V2"
+msgstr "{0} MINTYS-V2"
 
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI-V2 LP tokens available"
-msgstr "{0} UNI-V2 LP tekens beskikbaar"
+msgid "{0} MINTYS-V2 LP tokens available"
+msgstr "{0} MINTYS-V2 LP tekens beskikbaar"
 
 #: src/components/vote/VoteModal.tsx
 msgid "{0} Votes"
@@ -2248,12 +2248,12 @@ msgid "{0}/{1} LP Tokens"
 msgstr "{0}/{1} LP Tekens"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{SOCKS_AMOUNT} UNI"
-msgstr "{SOCKS_AMOUNT} UNI"
+msgid "{SOCKS_AMOUNT} MINTYS"
+msgstr "{SOCKS_AMOUNT} MINTYS"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{USER_AMOUNT} UNI"
-msgstr "{USER_AMOUNT} UNI"
+msgid "{USER_AMOUNT} MINTYS"
+msgstr "{USER_AMOUNT} MINTYS"
 
 #: src/components/SearchModal/ManageLists.tsx
 msgid "{activeTokensOnThisChain} tokens"

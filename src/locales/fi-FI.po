@@ -59,8 +59,8 @@ msgstr "- Poista lähetys"
 #: src/components/earn/PoolCard.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "0 UNI / week"
-msgstr "0 UNI / viikko"
+msgid "0 MINTYS / week"
+msgstr "0 MINTYS / viikko"
 
 #: src/components/FeeSelector/index.tsx
 msgid "0.05% fee"
@@ -132,8 +132,8 @@ msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
 msgstr "<0>🎉 </0>Tervetuloa Team Unicorniin :) <1>🎉</1>"
 
 #: src/pages/Vote/index.tsx
-msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
-msgstr "Ehdotusten jättämiseen vaaditaan vähintään 0,25 prosentin kynnysarvo UNI: n kokonaismäärästä"
+msgid "A minimum threshold of 0.25% of the total MINTYS supply is required to submit proposals"
+msgstr "Ehdotusten jättämiseen vaaditaan vähintään 0,25 prosentin kynnysarvo MINTYS: n kokonaismäärästä"
 
 #: src/components/Menu/index.tsx
 msgid "About"
@@ -273,8 +273,8 @@ msgid "Are you sure?"
 msgstr "Oletko varma?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Mintyswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "Mintyswap-yhteisön jäsenenä voit lunastaa UNI-rahakkeita käytettäväksi äänestämiseen ja hallintoon.<0/><1/><2>Lue lisää UNIsta</2>"
+msgid "As a member of the Mintyswap community you may claim MINTYS to be used for voting and governance.<0/><1/><2>Read more about MINTYS</2>"
+msgstr "Mintyswap-yhteisön jäsenenä voit lunastaa MINTYS-rahakkeita käytettäväksi äänestämiseen ja hallintoon.<0/><1/><2>Lue lisää MINTYSsta</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -362,25 +362,25 @@ msgstr "Lunasta"
 #: src/components/claim/AddressClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "Claim UNI"
-msgstr "Lunasta UNI"
+msgid "Claim MINTYS"
+msgstr "Lunasta MINTYS"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Claim UNI Token"
-msgstr "Lunasta UNI-rahake"
+msgid "Claim MINTYS Token"
+msgstr "Lunasta MINTYS-rahake"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/ClaimRewardModal.tsx
-msgid "Claim accumulated UNI rewards"
-msgstr "Lunasta kertyneet UNI-palkinnot"
+msgid "Claim accumulated MINTYS rewards"
+msgstr "Lunasta kertyneet MINTYS-palkinnot"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Claim fees"
 msgstr "Lunasta palkkiot"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Claim your UNI tokens"
-msgstr "Lunasta UNI-rahakkeesi"
+msgid "Claim your MINTYS tokens"
+msgstr "Lunasta MINTYS-rahakkeesi"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claimed"
@@ -388,21 +388,21 @@ msgstr "Lunastettu"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claimed UNI!"
-msgstr "UNI lunastettu!"
+msgid "Claimed MINTYS!"
+msgstr "MINTYS lunastettu!"
 
 #: src/components/claim/AddressClaimModal.tsx
 msgid "Claiming"
 msgstr "Lunastetaan"
 
 #: src/components/Header/index.tsx
-msgid "Claiming UNI"
-msgstr "UNIn lunastaminen"
+msgid "Claiming MINTYS"
+msgstr "MINTYSn lunastaminen"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Claiming {0} UNI"
-msgstr "Lunastetaan {0} UNIa"
+msgid "Claiming {0} MINTYS"
+msgstr "Lunastetaan {0} MINTYSa"
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Clear All"
@@ -618,8 +618,8 @@ msgid "Deposit Amounts"
 msgstr "Talletusten määrä"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Deposit UNI-V2 LP Tokens"
-msgstr "Talleta UNI-V2 LP -rahakkeita"
+msgid "Deposit MINTYS-V2 LP Tokens"
+msgstr "Talleta MINTYS-V2 LP -rahakkeita"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Deposit liquidity"
@@ -632,16 +632,16 @@ msgid "Deposit to {0}"
 msgstr "Talleta {0}"
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Mintyswap protocol governance token."
-msgstr "Talleta likviditeetin tarjoajan rahakkeesi saadaksesi UNI-rahakkeita, Mintyswap-protokollan hallintorahakkeita."
+msgid "Deposit your Liquidity Provider tokens to receive MINTYS, the Mintyswap protocol governance token."
+msgstr "Talleta likviditeetin tarjoajan rahakkeesi saadaksesi MINTYS-rahakkeita, Mintyswap-protokollan hallintorahakkeita."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
 msgstr "Talletettu likviditeetti:"
 
 #: src/components/earn/StakingModal.tsx
-msgid "Deposited {0} UNI-V2"
-msgstr "Talletettu {0} UNI-V2"
+msgid "Deposited {0} MINTYS-V2"
+msgstr "Talletettu {0} MINTYS-V2"
 
 #: src/components/earn/StakingModal.tsx
 msgid "Depositing Liquidity"
@@ -684,8 +684,8 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Etkö näe yhtä v2-positiostasi? <0>Tuo se.</0>"
 
 #: src/components/vote/DelegateModal.tsx
-msgid "Earned UNI tokens represent voting shares in Mintyswap governance."
-msgstr "Ansaitut UNI-rahakkeet edustavat äänioikeusosakkeita Uniswapin hallinnossa."
+msgid "Earned MINTYS tokens represent voting shares in Mintyswap governance."
+msgstr "Ansaitut MINTYS-rahakkeet edustavat äänioikeusosakkeita Uniswapin hallinnossa."
 
 #: src/components/FeeSelector/index.tsx
 msgid "Edit"
@@ -708,8 +708,8 @@ msgid "Enter a valid slippage percentage"
 msgstr "Syötä kelvollinen luistoprosentti"
 
 #: src/components/claim/AddressClaimModal.tsx
-msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
-msgstr "Syötä osoite, joka käynnistää UNI-lunastuksen. Jos osoitteella on lunastettavia UNI-rahakkeita, ne lähetetään vastaanottajalle, kun pyyntö on tehty."
+msgid "Enter an address to trigger a MINTYS claim. If the address has any claimable MINTYS it will be sent to them on submission."
+msgstr "Syötä osoite, joka käynnistää MINTYS-lunastuksen. Jos osoitteella on lunastettavia MINTYS-rahakkeita, ne lähetetään vastaanottajalle, kun pyyntö on tehty."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
@@ -1127,8 +1127,8 @@ msgid "Once you are happy with the rate click supply to review."
 msgstr "Kun olet tyytyväinen kurssiin, paina \"tarjonta\" tarkistaaksesi."
 
 #: src/pages/Vote/VotePage.tsx
-msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
-msgstr "Ainoastaan itsedelegoidut ja toiseen osoitteeseen ennen lohkoa {0} delegoidut UNI-äänet ovat oikeutettuja äänestämään."
+msgid "Only MINTYS votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Ainoastaan itsedelegoidut ja toiseen osoitteeseen ennen lohkoa {0} delegoidut MINTYS-äänet ovat oikeutettuja äänestämään."
 
 #: src/components/Web3ReactManager/index.tsx
 msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
@@ -1306,8 +1306,8 @@ msgid "Rates"
 msgstr "Kurssit"
 
 #: src/pages/Earn/index.tsx
-msgid "Read more about UNI"
-msgstr "Lue lisää UNIsta"
+msgid "Read more about MINTYS"
+msgstr "Lue lisää MINTYSsta"
 
 #: src/pages/Vote/index.tsx
 msgid "Read more about Mintyswap governance"
@@ -1465,8 +1465,8 @@ msgid "Status"
 msgstr "Tila"
 
 #: src/pages/Earn/Manage.tsx
-msgid "Step 1. Get UNI-V2 Liquidity tokens"
-msgstr "Vaihe 1. Hanki UNI-V2 likviditeettirahakkeita"
+msgid "Step 1. Get MINTYS-V2 Liquidity tokens"
+msgstr "Vaihe 1. Hanki MINTYS-V2 likviditeettirahakkeita"
 
 #: src/state/governance/hooks.ts
 msgid "Submitted new proposal"
@@ -1671,37 +1671,37 @@ msgid "Turn On Expert Mode"
 msgstr "Ota asiantuntijatila käyttöön"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "UNI has arrived"
-msgstr "UNI on saapunut"
+msgid "MINTYS has arrived"
+msgstr "MINTYS on saapunut"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI in circulation:"
-msgstr "Liikkeessä oleva UNI:"
+msgid "MINTYS in circulation:"
+msgstr "Liikkeessä oleva MINTYS:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "UNI price:"
-msgstr "UNI:n hinta:"
+msgid "MINTYS price:"
+msgstr "MINTYS:n hinta:"
 
 #: src/pages/Vote/index.tsx
-msgid "UNI tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "UNI-rahakkeet edustavat Uniswapin hallinnon äänestysosakkeita. Voit äänestää jokaisesta ehdotuksesta itse tai delegoida äänesi kolmannelle osapuolelle."
+msgid "MINTYS tokens represent voting shares in Mintyswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "MINTYS-rahakkeet edustavat Uniswapin hallinnon äänestysosakkeita. Voit äänestää jokaisesta ehdotuksesta itse tai delegoida äänesi kolmannelle osapuolelle."
 
 #: src/pages/RemoveLiquidity/index.tsx
-msgid "UNI {0}/{1} Burned"
-msgstr "UNI {0}/{1} Poltettu"
+msgid "MINTYS {0}/{1} Burned"
+msgstr "MINTYS {0}/{1} Poltettu"
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
-msgstr "UNI-V2 LP -rahakkeita vaaditaan. Kun olet lisännyt likviditeettiä {0}-{1} pooliin, voit käyttää likviditeettirahakkeitasi tällä sivulla."
+msgid "MINTYS-V2 LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "MINTYS-V2 LP -rahakkeita vaaditaan. Kun olet lisännyt likviditeettiä {0}-{1} pooliin, voit käyttää likviditeettirahakkeitasi tällä sivulla."
 
 #: src/pages/Earn/Manage.tsx
-msgid "UNI-V2 {0}-{1}"
-msgstr "UNI-V2 {0}-{1}"
+msgid "MINTYS-V2 {0}-{1}"
+msgstr "MINTYS-V2 {0}-{1}"
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/UnstakingModal.tsx
-msgid "Unclaimed UNI"
-msgstr "Lunastamaton UNI"
+msgid "Unclaimed MINTYS"
+msgstr "Lunastamaton MINTYS"
 
 #: src/pages/Pool/PositionPage.tsx
 msgid "Unclaimed fees"
@@ -1808,8 +1808,8 @@ msgid "V3 {0} Price:"
 msgstr "V3 {0} Hinta:"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "View UNI Analytics"
-msgstr "Näytä UNI-analytiikka"
+msgid "View MINTYS Analytics"
+msgstr "Näytä MINTYS-analytiikka"
 
 #: src/pages/Pool/index.tsx
 msgid "View V2 Liquidity"
@@ -1891,12 +1891,12 @@ msgid "When you claim without withdrawing your liquidity remains in the mining p
 msgstr "Kun lunastat vetäytymättä, likviditeettisi jää louhintapooliin."
 
 #: src/pages/Earn/Manage.tsx
-msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
-msgstr "Kun vetäydyt, sopimus lunastaa automaattisesti UNIn puolestasi!"
+msgid "When you withdraw, the contract will automagically claim MINTYS on your behalf!"
+msgstr "Kun vetäydyt, sopimus lunastaa automaattisesti MINTYSn puolestasi!"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
-msgstr "Kun vetäydyt, UNI lunastetaan ja likviditeettisi poistetaan louhintapoolista."
+msgid "When you withdraw, your MINTYS is claimed and your liquidity is removed from the mining pool."
+msgstr "Kun vetäydyt, MINTYS lunastetaan ja likviditeettisi poistetaan louhintapoolista."
 
 #: src/components/earn/UnstakingModal.tsx
 #: src/pages/Earn/Manage.tsx
@@ -1913,12 +1913,12 @@ msgid "Withdraw deposited liquidity"
 msgstr "Vedä talletettu likviditeetti takaisin"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrawing {0} UNI-V2"
-msgstr "Vedetään pois {0} UNI-V2"
+msgid "Withdrawing {0} MINTYS-V2"
+msgstr "Vedetään pois {0} MINTYS-V2"
 
 #: src/components/earn/UnstakingModal.tsx
-msgid "Withdrew UNI-V2!"
-msgstr "UNI-V2 vedetty pois!"
+msgid "Withdrew MINTYS-V2!"
+msgstr "MINTYS-V2 vedetty pois!"
 
 #: src/pages/Swap/index.tsx
 msgid "Wrap"
@@ -1992,8 +1992,8 @@ msgid "You will receive"
 msgstr "Tulet vastaanottamaan"
 
 #: src/components/Header/UniBalanceContent.tsx
-msgid "Your UNI Breakdown"
-msgstr "Sinun UNI-erittelysi"
+msgid "Your MINTYS Breakdown"
+msgstr "Sinun MINTYS-erittelysi"
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2079,8 +2079,8 @@ msgid "Your transactions will appear here..."
 msgstr "Tapahtumasi näkyvät täällä..."
 
 #: src/pages/Earn/Manage.tsx
-msgid "Your unclaimed UNI"
-msgstr "Lunastamattomat UNIsi"
+msgid "Your unclaimed MINTYS"
+msgstr "Lunastamattomat MINTYSsi"
 
 #: src/components/Settings/index.tsx
 msgid "confirm"
@@ -2168,24 +2168,24 @@ msgstr "{0} odottaa"
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
 #: src/components/claim/ClaimModal.tsx
-msgid "{0} UNI"
-msgstr "{0} UNI"
+msgid "{0} MINTYS"
+msgstr "{0} MINTYS"
 
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/PoolCard.tsx
 #: src/components/earn/StakingModal.tsx
 #: src/pages/Earn/Manage.tsx
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI / week"
-msgstr "{0} UNI / viikko"
+msgid "{0} MINTYS / week"
+msgstr "{0} MINTYS / viikko"
 
 #: src/components/earn/StakingModal.tsx
-msgid "{0} UNI-V2"
-msgstr "{0} UNI-V2"
+msgid "{0} MINTYS-V2"
+msgstr "{0} MINTYS-V2"
 
 #: src/pages/Earn/Manage.tsx
-msgid "{0} UNI-V2 LP tokens available"
-msgstr "{0} UNI-V2 LP -rahaketta saatavilla"
+msgid "{0} MINTYS-V2 LP tokens available"
+msgstr "{0} MINTYS-V2 LP -rahaketta saatavilla"
 
 #: src/components/vote/VoteModal.tsx
 msgid "{0} Votes"
@@ -2248,12 +2248,12 @@ msgid "{0}/{1} LP Tokens"
 msgstr "{0}/{1} LP-rahaketta"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{SOCKS_AMOUNT} UNI"
-msgstr "{SOCKS_AMOUNT} UNI"
+msgid "{SOCKS_AMOUNT} MINTYS"
+msgstr "{SOCKS_AMOUNT} MINTYS"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "{USER_AMOUNT} UNI"
-msgstr "{USER_AMOUNT} UNI"
+msgid "{USER_AMOUNT} MINTYS"
+msgstr "{USER_AMOUNT} MINTYS"
 
 #: src/components/SearchModal/ManageLists.tsx
 msgid "{activeTokensOnThisChain} tokens"

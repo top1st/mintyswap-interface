@@ -1,5 +1,5 @@
 import { WETH9, Token, Ether } from '@uniswap/sdk-core'
-import { UNI_ADDRESS } from './addresses'
+import { MINTYS_ADDRESS } from './addresses'
 import { SupportedChainId } from './chains'
 
 export const AMPL = new Token(
@@ -138,12 +138,12 @@ export const MIR = new Token(
   'MIR',
   'Wrapped MIR'
 )
-export const UNI: { [chainId: number]: Token } = {
-  [SupportedChainId.MAINNET]: new Token(SupportedChainId.MAINNET, UNI_ADDRESS[1], 9, 'MINTYS', 'Mintyswap'),
-  [SupportedChainId.RINKEBY]: new Token(SupportedChainId.RINKEBY, UNI_ADDRESS[4], 9, 'MINTYS', 'Mintyswap'),
-  [SupportedChainId.ROPSTEN]: new Token(SupportedChainId.ROPSTEN, UNI_ADDRESS[3], 18, 'UNI', 'Mintyswap'),
-  [SupportedChainId.GOERLI]: new Token(SupportedChainId.GOERLI, UNI_ADDRESS[5], 18, 'UNI', 'Mintyswap'),
-  [SupportedChainId.KOVAN]: new Token(SupportedChainId.KOVAN, UNI_ADDRESS[42], 18, 'UNI', 'Mintyswap'),
+export const MINTYS: { [chainId: number]: Token } = {
+  [SupportedChainId.MAINNET]: new Token(SupportedChainId.MAINNET, MINTYS_ADDRESS[1], 9, 'MINTYS', 'Mintyswap'),
+  [SupportedChainId.RINKEBY]: new Token(SupportedChainId.RINKEBY, MINTYS_ADDRESS[4], 9, 'MINTYS', 'Mintyswap'),
+  [SupportedChainId.ROPSTEN]: new Token(SupportedChainId.ROPSTEN, MINTYS_ADDRESS[3], 18, 'MINTYS', 'Mintyswap'),
+  [SupportedChainId.GOERLI]: new Token(SupportedChainId.GOERLI, MINTYS_ADDRESS[5], 18, 'MINTYS', 'Mintyswap'),
+  [SupportedChainId.KOVAN]: new Token(SupportedChainId.KOVAN, MINTYS_ADDRESS[42], 18, 'MINTYS', 'Mintyswap'),
 }
 
 export const WETH9_EXTENDED: { [chainId: number]: Token } = {
