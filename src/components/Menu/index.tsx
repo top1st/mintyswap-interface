@@ -254,6 +254,12 @@ export default function Menu() {
                     </div>
                     <PieChart opacity={0.6} size={16} />
                   </MenuItem>
+                  <MenuItem href="https://v2.info.mintyswap.com">
+                    <div>
+                      <Trans>Analytics V2</Trans>
+                    </div>
+                    <PieChart opacity={0.6} size={16} />
+                  </MenuItem>
                   <ToggleMenuItem onClick={() => setMenu('lang')}>
                     <div>
                       <Trans>Language</Trans>
