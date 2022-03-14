@@ -235,6 +235,10 @@ msgstr "An error occurred when trying to execute this swap. You may need to incr
 msgid "Analytics"
 msgstr "Analytics"
 
+#: src/components/Menu/index.tsx
+msgid "Analytics V2"
+msgstr "Analytics V2"
+
 #: src/components/earn/StakingModal.tsx
 #: src/pages/RemoveLiquidity/index.tsx
 msgid "Approve"
