@@ -227,7 +227,7 @@ export default function Pool() {
                   <ButtonSecondary>
                     <RowBetween>
                       <Trans>
-                        <ExternalLink href={'https://v2.info.mintyswap.com/account/' + account}>
+                        <ExternalLink href={'https://v2info.mintyswap.com/account/' + account}>
                           Account analytics and accrued fees
                         </ExternalLink>
                         <span> ↗ </span>

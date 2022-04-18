@@ -254,7 +254,7 @@ export default function Menu() {
                     </div>
                     <PieChart opacity={0.6} size={16} />
                   </MenuItem>
-                  <MenuItem href="https://v2.info.mintyswap.com">
+                  <MenuItem href="https://v2info.mintyswap.com">
                     <div>
                       <Trans>Analytics V2</Trans>
                     </div>
